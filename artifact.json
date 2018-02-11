@@ -1,10 +1,10 @@
 [
  {
-  "id" : "logger"
+  "id" : "logger",
   "location": "P:\\workspace\\demorepos\\Logger"
  },
  {
-  "id" : "my-demo-artifact2"
+  "id" : "my-demo-artifact2",
   "location": "P:\\workspace\\demorepos\\my-demo-artifact2"
  }
 ]
